@@ -13,7 +13,7 @@
 	<name>asm-feed-image</name>
 	<description>Feed Image Microservice of Axis Saral Management Project</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 		<spring-cloud.version>2021.0.1</spring-cloud.version>
 	</properties>
 	<dependencies>
